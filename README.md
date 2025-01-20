@@ -15,7 +15,7 @@ Then:
 
 YOU MUST UNZIP IT
 ```
-cd the path with the file normally c:\Users\{username}\Download\Discord-Nitro-Checker-main\
+cd the path with the file normally c:\Users\{username}\Download\Discord-Nitro-Checker-main\Discord-Nitro-Checker-main\
 ```
 ```
 python main.py
