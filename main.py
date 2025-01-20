@@ -2,7 +2,9 @@ import random
 import string
 import requests
 import json
+import os
 
+os.makedirs('Links', exist_ok=True)
 
 with open('success.json', 'w') as f:
     f.write("[\n    \n]")
