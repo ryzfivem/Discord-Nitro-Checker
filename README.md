@@ -9,13 +9,14 @@
 First:
 ```
 Install Python 1.13.1 or newer
-
+```
 
 Then:
-```
+
 YOU MUST UNZIP IT
 ```
 cd the path with the file normally c:\Users\{username}\Download\Discord-Nitro-Checker-main\
+```
 ```
 python main.py
 ```
